@@ -23,6 +23,11 @@ input[name='q']::placeholder {
 }
 
 
+.nav-item .dropdown:hover {
+    display: block;
+}
+
+
 /*------------------------- mobile nav toggler*/
 
 .navbar-light .navbar-toggler {
