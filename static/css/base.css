@@ -22,10 +22,23 @@ input[name='q']::placeholder {
   width: fit-content;
 }
 
-
-.nav-item .dropdown:hover {
+.dropdown-menu:hover {
     display: block;
 }
+
+
+.dropdown-menu:hover {
+    display: block;
+}
+
+/*.nav-link:hover {
+    display: block;
+}*/
+
+
+/*.nav-item .navbar-light .nav-link .dropdown:hover {
+    display: block;
+}*/
 
 
 /*------------------------- mobile nav toggler*/
